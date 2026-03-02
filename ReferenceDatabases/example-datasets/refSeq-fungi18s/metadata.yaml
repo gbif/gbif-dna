@@ -1,0 +1,27 @@
+title: Fungal 18S Ribosomal RNA (SSU) RefSeq Targeted Loci Project
+targetGene: 18S rRNA
+taxonRanks: domain;kingdom;subkingdom;phylum;class;order;family;genus;species
+description: |-
+  The 18S ribosomal RNA targeted loci project is a RefSeq curated data set sourced from INSDC records. At a minimum the sequence contains most of the variable V4 region and part of the V5 region and each record contain a collection identifier (predominantly type material) from a public collection.
+
+  The presence of the 18S signature has been verified by the ribovore pipeline using hidden Markov and covariance models. SSU RefSeq accessions (NG_) include sequences mostly obtained from type specimens and a few from reference specimens.
+issued: '2026-02-01'
+version: PRJNA39195
+contact:
+  given: Barbara
+  family: Robbertse
+  email: barbara.robbertse@nih.gov
+creator:
+- given: Barbara
+  family: Robbertse
+  organization: National Center for Biotechnology Information
+keyword:
+- 18S rRNA
+- fungi
+- type specimens
+- RefSeq
+geographicScope: global
+taxonomicScope:
+  - Fungi
+licence: CC-BY 4.0
+url: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA39195

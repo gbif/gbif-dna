@@ -1,0 +1,27 @@
+title: Archaeal 16S Ribosomal RNA RefSeq Targeted Loci Project
+targetGene: 16S rRNA
+taxonRanks: domain;kingdom;subkingdom;phylum;class;order;family;genus;species
+description: |-
+  The small subunit ribosomal RNA is a useful phylogenetic marker that has been used extensively for evolutionary analyses. The RefSeq dataset contains curated 16S ribosomal RNA sequences that correspond to archaea type materials.
+
+  The RefSeq records may contain corrections to the sequence or taxonomy as compared to the original INSD submission, and may have additional information added that is not found in the original.
+issued: '2026-02-01'
+version: PRJNA33317
+contact:
+  given: Richard
+  family: McVeigh
+  email: mcveigh@ncbi.nlm.nih.gov
+creator:
+- given: Richard
+  family: McVeigh
+  organization: National Center for Biotechnology Information
+keyword:
+- 16S rRNA
+- archaea
+- type specimens
+- RefSeq
+geographicScope: global
+taxonomicScope:
+  - Archaea
+licence: CC-BY 4.0
+url: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA33317

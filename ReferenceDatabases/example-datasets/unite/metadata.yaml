@@ -1,0 +1,30 @@
+title: UNITE Species Hypotheses - General Release
+targetGene: ITS
+taxonRanks: kingdom;phylum;class;order;family;genus;species
+description: |-
+  UNITE is a database and sequence management environment for molecular identification of fungi. It provides DNA-based species hypotheses (SHs) that group sequences into species-level clusters.
+
+  This dataset contains the general release of UNITE Species Hypotheses with dynamic clustering thresholds. Records have been enriched with metadata from NCBI GenBank where available (coordinates, country, collection numbers).
+issued: '2025-02-19'
+version: '19.02.2025'
+contact:
+  given: Urmas
+  family: Koljalg
+  email: urmas.koljalg@ut.ee
+creator:
+- given: Urmas
+  family: Koljalg
+  organization: University of Tartu
+- given: Kessy
+  family: Abarenkov
+  organization: University of Tartu
+keyword:
+- ITS
+- fungi
+- species hypotheses
+- DNA barcoding
+geographicScope: global
+taxonomicScope:
+  - Fungi
+licence: CC-BY-SA 4.0
+url: https://unite.ut.ee/

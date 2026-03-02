@@ -1,0 +1,23 @@
+title: Bacterial 23S Ribosomal RNA RefSeq Targeted Loci Project
+targetGene: 23S rRNA
+taxonRanks: kingdom;phylum;class;order;family;genus;species
+description: |-
+  The 23S ribosomal RNA targeted loci project is the result of an international collaboration between a number of ribosomal RNA databases and NCBI to provide a curated and comprehensive set of complete and near full length Reference Sequence records for phylogenetic and evolutionary analyses.
+
+  Sequences that represent the consensus of all contributing databases in both sequence content and taxonomic assignment are promoted to RefSeqs.
+issued: '2013-02-08'
+version: PRJNA188943
+contact:
+  organization: National Center for Biotechnology Information
+creator:
+- organization: National Center for Biotechnology Information
+keyword:
+- 23S rRNA
+- bacteria
+- type specimens
+- RefSeq
+geographicScope: global
+taxonomicScope:
+  - Bacteria
+licence: CC-BY 4.0
+url: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA188943

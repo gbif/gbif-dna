@@ -1,0 +1,25 @@
+title: Oomycetes Internal Transcribed Spacer RNA (ITS) RefSeq Targeted Loci Project
+targetGene: ITS
+taxonRanks: domain;kingdom;subkingdom;phylum;class;order;family;genus;species
+description: |-
+  Similar to the Fungi ITS RefSeq Targeted Loci project (PRJNA177353) we aim to provide a curated set of complete and near full length sequences with specimen data and correct taxonomic names with the help from experts in the Oomycetes research community.
+issued: '2026-02-01'
+version: PRJNA362621
+contact:
+  given: Barbara
+  family: Robbertse
+  email: barbara.robbertse@nih.gov
+creator:
+- given: Barbara
+  family: Robbertse
+  organization: National Center for Biotechnology Information
+keyword:
+- ITS
+- oomycetes
+- type specimens
+- RefSeq
+geographicScope: global
+taxonomicScope:
+  - Oomycota
+licence: CC-BY 4.0
+url: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA362621

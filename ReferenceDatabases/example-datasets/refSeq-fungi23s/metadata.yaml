@@ -1,0 +1,27 @@
+title: Fungal 28S Ribosomal RNA (LSU) RefSeq Targeted Loci Project
+targetGene: 28S rRNA
+taxonRanks: kingdom;phylum;class;order;family;genus;species
+description: |-
+  The 28S ribosomal RNA targeted loci project is a RefSeq curated data set sourced from INSDC records. At a minimum the sequence contains the hyper variable D1/D2 region and each record contain a collection identifier (predominantly type material) from a public collection.
+
+  The presence of the 28S signature has been verified by the ribovore pipeline using hidden Markov and covariance models. LSU RefSeq accessions (NG_) include sequences mostly obtained from type specimens and a few from reference specimens.
+issued: '2026-02-01'
+version: PRJNA51803
+contact:
+  given: Barbara
+  family: Robbertse
+  email: barbara.robbertse@nih.gov
+creator:
+- given: Barbara
+  family: Robbertse
+  organization: National Center for Biotechnology Information
+keyword:
+- 28S rRNA
+- fungi
+- type specimens
+- RefSeq
+geographicScope: global
+taxonomicScope:
+  - Fungi
+licence: CC-BY 4.0
+url: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA51803

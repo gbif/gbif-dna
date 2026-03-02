@@ -1,0 +1,23 @@
+title: Archaeal 5S Ribosomal RNA RefSeq Targeted Loci Project
+targetGene: 5S rRNA
+taxonRanks: domain;kingdom;subkingdom;phylum;class;order;family;genus;species
+description: |-
+  The 5S ribosomal RNA targeted loci project is the result of an international collaboration between a number of ribosomal RNA databases and NCBI to provide a curated and comprehensive set of complete and near full length Reference Sequence records for phylogenetic and evolutionary analyses.
+
+  Sequences that represent the consensus of all contributing databases in both sequence content and taxonomic assignment are promoted to RefSeqs.
+issued: '2013-01-30'
+version: PRJNA188107
+contact:
+  organization: National Center for Biotechnology Information
+creator:
+- organization: National Center for Biotechnology Information
+keyword:
+- 5S rRNA
+- archaea
+- type specimens
+- RefSeq
+geographicScope: global
+taxonomicScope:
+  - Archaea
+licence: CC-BY 4.0
+url: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA188107

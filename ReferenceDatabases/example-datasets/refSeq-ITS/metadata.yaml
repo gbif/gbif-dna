@@ -1,0 +1,27 @@
+title: Fungal Internal Transcribed Spacer RNA (ITS) RefSeq Targeted Loci Project
+targetGene: ITS
+taxonRanks: domain;kingdom;subkingdom;phylum;class;order;family;genus;species
+description: |-
+  The ITS RefSeq Targeted Loci project is the result of an international collaboration with fungal taxonomic specialists to verify and provide a curated set of complete and near full length sequences with specimen data and correct taxonomic names. Collaborators at MycoBank, Index Fungorum, ISHAM, UNITE and curators from various culture and herbarium collections around the world contributed to this effort.
+
+  ITS RefSeq accessions (NR_) include sequences mostly obtained from type specimens and a few from verified specimens (ultimately to be replaced with sequences from type specimens). The collection source of type material are indicated in each record and collection acronyms follows the collection codes maintained at the NCBI collections database.
+issued: '2026-02-01'
+version: PRJNA177353
+contact:
+  given: Barbara
+  family: Robbertse
+  email: barbara.robbertse@nih.gov
+creator:
+- given: Barbara
+  family: Robbertse
+  organization: National Center for Biotechnology Information
+keyword:
+- ITS
+- fungi
+- type specimens
+- RefSeq
+geographicScope: global
+taxonomicScope:
+  - Fungi
+licence: CC-BY 4.0
+url: http://www.ncbi.nlm.nih.gov/bioproject/PRJNA177353

@@ -1,0 +1,45 @@
+title: PR2 - Protist Ribosomal Reference database
+targetGene: 18S rRNA
+taxonRanks: domain;supergroup;division;subdivision;class;order;family;genus;species
+description: |-
+  The PR2 database was initiated in 2010 in the frame of the BioMarks project. Its aim is to provide a reference database of carefully annotated 18S rRNA sequences using noine unique taxonomic fields (from domain to species).
+
+    It contains more than 220,000 sequences. A number of metadata fields are available for many sequences, including geo-localisation, whether it originates from a culture or a natural sample, host type etc… The annotation of PR2 is performed by experts from each taxonomic groups.
+
+    For the purpose of being compatible with GBIF structure the following changes in the taxonomic levels have been implemented:
+    - supergroup => subdomain
+    - division => phylum
+    - subdivision => subphylum
+
+    Also intermedaite ranks that are labelled as _X in PR2 have been removed.
+
+    The resulting structure reproduces taxonomic structure of PR2 but is not exactly similar since:
+    - PR2 contains intermedaite _X ranks
+    - PR2 does not allow for spaces in any of the rank names and replaces them by _ (underscore)
+    - Some issues in PR2 taxa names still need to be fixed.
+issued: '2025-04-02'
+version: 5.1.0
+contact:
+  given: Daniel
+  family: Vaulot
+  email: vaulot@gmail.com
+creator:
+- given: Laure
+  family: Guillou
+  orcid: 0000-0003-1032-7958
+- given: Daniel
+  family: Vaulot
+  orcid: 0000-0002-0717-5685
+- given: Javier
+  family: del Campo
+  orcid: 0000-0002-5292-1421
+keyword:
+- 18S
+- protists
+geographicScope: global
+taxonomicScope: 
+ - Eukaryota
+ - Protista
+licence: MIT
+url: https://pr2-database.org/
+logo: https://pr2-database.org/img/pr2_logo_16_9_big.png
